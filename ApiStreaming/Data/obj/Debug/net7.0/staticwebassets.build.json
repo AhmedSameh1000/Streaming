@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "TOevGzhJFw22+E/N59CNg8CqlUCBttELP17LX3ga9V4=",
+  "Source": "VideoStreaming",
+  "BasePath": "_content/VideoStreaming",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VideoStreaming\\wwwroot",
+      "Source": "VideoStreaming",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Streamin\\ApiStreaming\\Data\\wwwroot\\",
+      "BasePath": "_content/VideoStreaming",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
